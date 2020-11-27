@@ -1,4 +1,4 @@
 api/config.php
 
 composer.phar
-/vendor/
+api/vendor/
