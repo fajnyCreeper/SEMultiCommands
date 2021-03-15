@@ -10,4 +10,4 @@ $bearer = "";
 $db["host"] = "";
 $db["username"] = "";
 $db["password"] = "";
-$db["table"] = "";
+$db["database"] = "";
