@@ -8,7 +8,7 @@ Multi-messages are by default limited to max 5 messages per pattern. You can inc
 Install dependencies using  `/api/composer.json`
 
 ### SQL Database
-Create table using the [patternList.sql](../blob/main/patternList.sql) file
+Create table using the [patternList.sql](../main/patternList.sql) file
 
 ### Web server
 Download the repository, place all the files in your desired destination.
